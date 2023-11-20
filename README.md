@@ -1,0 +1,2 @@
+# DL-based Anatomical Landmark Localization
+An unofficial PyTorch implementation of "Deep Learning-Based Regression and Classification for Automatic Landmark Localization in Medical Images" [https://arxiv.org/abs/2007.05295](https://arxiv.org/abs/2007.05295).
